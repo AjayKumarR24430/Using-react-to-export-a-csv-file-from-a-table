@@ -80,8 +80,8 @@ function Home() {
         <ToolkitProvider
             keyField="id"
             data={ products }
-            columns={ columns }
-            exportCSV={ { onlyExportSelection: true, exportAll: true } }
+            columns={  columns}
+            exportCSV={ { onlyExportSelection: true, exportAll: true}}
             >
                 {
                     props => (
