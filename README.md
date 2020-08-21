@@ -2,8 +2,8 @@ A program to export a CSV file from the table.
 This project consists of the following things:
 1. React project
 2. Home Screen: 
-  1. Table
-  2. Export button
+  a. Table
+  b. Export button
 3. Utility for a user to select the data which is to be exported.
 File will be downloaded.
 
